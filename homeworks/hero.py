@@ -17,7 +17,7 @@ class SuperHero:
 
 
     def __str__(self):
-        return (f'Прозвище: {self.nickname}, Суперспособность: {self.superpower},/n'
+        return (f'Прозвище: {self.nickname}, Суперспособность: {self.superpower},\n'
                 f' Здоровье: {self.health_points} ')
 
 
